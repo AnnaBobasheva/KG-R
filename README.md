@@ -1,4 +1,4 @@
-# KG-R
+# KG+R
 
 This repository includes tutorial notebooks that combine quering Knowlege Graphs using SPARQL and applying statistical analysis and modeling using R.
 
